@@ -1,0 +1,94 @@
+body {
+    margin:0;
+    text-align: center;
+    font-size: 1.1em;
+}
+
+p {
+    color: #424874;
+    margin-top: 0;
+    font-family: 'PT serif', serif;
+}
+h1 {
+    color: #424874;
+    font-size: 5.625rem;
+    margin-top:50px;
+    margin-bottom:10px;
+    font-family: 'Sacramento', cursive;
+    font-weight:lighter;
+}
+h2 {
+    color: #424874;
+    margin-top: 0;
+    font-family: 'PT serif', serif;
+}
+
+h3 {
+    color: #F4EEFF;
+    margin-top: 0;
+    font-family: 'PT serif', serif;
+}
+.top {
+    background-color: #F4EEFF;
+    position:relative;
+    padding-top: 150px;
+    padding-bottom: 100px;
+    border:0cm;
+    
+}
+.story_of_the_day {
+    background-color: #DCD6F7;
+    padding-bottom: 800px;
+    position:relative;
+    border:0cm;
+}
+.title {
+    position: fixed;
+    bottom:10px
+}
+.bottom{
+    background-color: #424874;
+    position:relative;
+    padding-bottom: 100px;padding-top:30px;
+}
+
+.bottom-cloud{
+    margin-top: 100px;
+    position:relative;
+    bottom:20px;
+    right:200px;
+}
+.top-cloud{
+    position:relative;
+    left: 200px;
+}
+
+.link{
+
+}
+
+.books{
+    width:256px;
+    height:142.7px;
+    position:relative;
+    right: 400px;
+    bottom:90px;
+}
+
+.short_story{
+    padding-top: 0px;
+    position: relative;
+    top:20px;
+}
+.text1{
+    float: left;
+    padding-top: 40px;
+}
+.poetry{
+    position: relative;
+    top:300px;
+
+}
+.information{
+    float: left;
+}
