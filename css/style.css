@@ -7,7 +7,7 @@ body {
 p {
     color: #424874;
     margin-top: 0;
-    font-family: 'PT serif', serif;
+    font-family: 'Arvo', serif;
 }
 h1 {
     color: #424874;
@@ -40,6 +40,7 @@ h3 {
     background-color: #DCD6F7;
     padding-bottom: 800px;
     position:relative;
+    padding-top: 50px;
     border:0cm;
 }
 .title {
@@ -62,7 +63,16 @@ h3 {
     position:relative;
     left: 200px;
 }
+hr {
+    height: .5mm;
+    background-color: #DCD6F7;
+    color:#495C83;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 5px;
+    width: 10%
 
+  }
 .link{
 
 }
@@ -72,13 +82,13 @@ h3 {
     height:142.7px;
     position:relative;
     right: 400px;
-    bottom:90px;
+    bottom:110px;
 }
 
 .short_story{
     padding-top: 0px;
     position: relative;
-    top:20px;
+    top:30px;
 }
 .text1{
     float: left;
