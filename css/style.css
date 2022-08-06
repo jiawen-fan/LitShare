@@ -2,11 +2,13 @@ body {
     margin:0;
     text-align: center;
     font-size: 1.1em;
+    color: #40514E;
 }
 
-p {
+h4 {
     color: #424874;
     margin-top: 0;
+    font-size: 1.1rem;
     font-family: 'Arvo', serif;
 }
 h1 {
@@ -89,6 +91,7 @@ hr {
     padding-top: 0px;
     position: relative;
     top:30px;
+
 }
 .text1{
     float: left;
